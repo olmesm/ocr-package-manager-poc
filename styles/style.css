@@ -1,0 +1,11 @@
+.box {
+  border: 1px solid red;
+  padding: 10px;
+  margin: 10px;
+  width: calc(100% - 40px);
+  text-align: center;
+}
+
+.black-border {
+  border: 1px solid black;
+}
